@@ -1,0 +1,11 @@
+**.el~
+backups
+ido.*
+*.cache
+auto-save-list
+cider-history
+elpa
+.recent*
+.smex-items
+projectile-bookmarks.eld
+places
